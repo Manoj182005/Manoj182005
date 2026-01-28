@@ -79,14 +79,14 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Thanks for checking out my GitHub!
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Manoj%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojpatelbm/)
+Feel free to connect:
+[![Coding Ninjas](https://img.shields.io/badge/CODING%20NINJAS-Manoj_182005-darkorange?style=for-the-badge)](https://www.naukri.com/code360/profile/50266953-c1a8-49c8-b58a-5e058c0958dd)
 
 [![LeetCode](https://img.shields.io/badge/LEETCODE-Manoj_182005-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Manoj_182005/)
 
-[![Coding Ninjas](https://img.shields.io/badge/CODING%20NINJAS-Manoj_182005-darkorange?style=for-the-badge)](https://www.naukri.com/code360/profile/50266953-c1a8-49c8-b58a-5e058c0958dd)
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Manoj%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojpatelbm/)
 
 
 
