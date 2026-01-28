@@ -4,7 +4,6 @@
 <p align="center">
 🚀 Building production-grade web & AI-powered platforms <br>
 🧠 Exploring GenAI, LangChain & ML integrations <br>
-⚙️ Diving deep into DevOps, CI/CD & Cloud Infrastructure
 </p>
 
 ---
@@ -86,7 +85,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/manojpatelbm/
 - 💻 LeetCode: https://leetcode.com/u/Manoj_182005/
-- [![Coding Ninjas](./coding-ninjas.png)](https://www.naukri.com/code360/profile/50266953-c1a8-49c8-b58a-5e058c0958dd)
+- [![Coding Ninjas](./assets/coding-ninjas.png)](https://www.naukri.com/code360/profile/50266953-c1a8-49c8-b58a-5e058c0958dd)
 
 
 
