@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manoj Patel 😄
+# Manoj Patel 😄
 
 ### Full Stack Web Developer | AI & GenAI Enthusiast
 
