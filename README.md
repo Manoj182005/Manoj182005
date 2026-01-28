@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj Patel</h1>
-<h3 align="center">Full Stack Web Developer | AI/ML & GenAI Enthusiast | DevOps Learner</h3>
 
 <p align="center">
-🚀 Building production-grade web & AI-powered platforms <br>
-🧠 Exploring GenAI, LangChain & ML integrations <br>
+Full Stack Web Developer | AI & GenAI Enthusiast
 </p>
 
 ---
@@ -14,7 +12,6 @@
 - 🤖 Actively exploring **AI/ML & Generative AI**
 - 🛠 Focused on building **developer-centric tools**
 - 🤝 Open to collaboration on impactful projects
-- 🎯 Goal: Become a strong **product engineer**
 
 ---
 
