@@ -10,7 +10,6 @@
 - 🤖 Actively exploring **AI/ML & Generative AI**
 - 🛠 Focused on building **developer-centric tools**
 - 🤝 Open to collaboration on impactful projects
-- 🎯 Goal: Become a strong **product engineer**
 
 ---
 
