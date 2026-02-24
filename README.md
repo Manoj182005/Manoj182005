@@ -29,6 +29,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+[![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com/)
 
 ---
 
@@ -42,6 +43,8 @@
 
 ## ⚙️ DevOps
 
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 
 ---
